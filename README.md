@@ -1,3 +1,14 @@
+# reference : 
+
+- [how-to-build-a-blockchain-in-rust](https://blog.logrocket.com/how-to-build-a-blockchain-in-rust/)
+
+- [how-to-build-a-blockchain-from-scratch-in-rust](https://dev.to/ecj222/how-to-build-a-blockchain-from-scratch-in-rust-46)
+
+- [how-to-build-a-blockchain-from-scratch-in-rust](https://medium.com/@prabhueshwarla/coding-a-p2p-blockchain-in-rust-part-1-2ecc8f6005ea)
+
+- [rust_in_blockchain](https://rustinblockchain.org/)
+
+
 # Rust-in-Blockchain
 
 This is the code base of
