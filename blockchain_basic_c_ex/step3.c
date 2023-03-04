@@ -1,3 +1,6 @@
+/*
+gcc -o s3 step3.c -lssl -lcrypto
+*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

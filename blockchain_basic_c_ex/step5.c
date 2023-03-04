@@ -1,3 +1,8 @@
+/*
+gcc -o s5 step5.c -lssl -lcrypto
+*/
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

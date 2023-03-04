@@ -1,3 +1,6 @@
+/*
+gcc -o s2 step2.c -lssl -lcrypto
+*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
